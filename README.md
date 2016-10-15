@@ -1,2 +1,0 @@
-# blogin
-Blogin for example.
