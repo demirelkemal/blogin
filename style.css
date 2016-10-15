@@ -233,3 +233,8 @@ footer p{
 		padding:0;
 	}
 }
+@media screen and (max-width:560px){
+	.top-menu{
+		padding:0;
+	}
+}
